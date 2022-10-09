@@ -8,14 +8,7 @@
 * Aquí se encuentra un gif  que muestra la interacción dentro de la pagina. ![gif](https://github.com/fathooo/Portfolio_EDA_covid19/blob/main/eda-dashboard.gif?raw=true)
 
 ### Aquí el pdf
-* Aquí se encuentra un gif  que muestra la interacción dentro de la pagina. ![pdf]()
-
-<<<<<<< HEAD
-#### Si quieres tener acceso al codigo de la pagina mostrada en el pdf, comunicate conmigo en el siguiente link: [fathooo](https://www.fathooo.com)
-=======
-
-## Aquí el pdf
-
+* Aquí se encuentra un PDF de la pagina, para que puedas leer el informe. [Enlace al PDF](https://github.com/fathooo/Portfolio_EDA_covid19/blob/main/portfolio_covid19.pdf)
 
 #### Si quieres tener acceso al codigo de la pagina mostrada en el pdf, comunicate conmigo en el siguiente link: [fathooo](https://www.fathooo.com)
->>>>>>> 75559be2bce463773dbe26af938ee9dae1c9dd3a
+
