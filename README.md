@@ -10,4 +10,12 @@
 ### Aquí el pdf
 * Aquí se encuentra un gif  que muestra la interacción dentro de la pagina. ![pdf]()
 
+<<<<<<< HEAD
 #### Si quieres tener acceso al codigo de la pagina mostrada en el pdf, comunicate conmigo en el siguiente link: [fathooo](https://www.fathooo.com)
+=======
+
+## Aquí el pdf
+
+
+#### Si quieres tener acceso al codigo de la pagina mostrada en el pdf, comunicate conmigo en el siguiente link: [fathooo](https://www.fathooo.com)
+>>>>>>> 75559be2bce463773dbe26af938ee9dae1c9dd3a
